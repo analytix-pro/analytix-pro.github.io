@@ -4,13 +4,6 @@ layout: contact
 description: Contact
 ---
 
-We specialize in the automation of processes and workflows for SAP BusinessObjects. We can help you reduce costs and improve the quality of your reporting solutions by replacing tedious manual work with automated solutions. Our areas of expertise include:
+**Let's Talk Maconomy + Power BI!**
 
-* Web Intelligence documents
-* Universes
-* Crystal Reports
-* Analysis for OLAP
-* Managing objects in CMS
-* Dependencies between objects in CMS
-* Security
-* and more
+Ready to supercharge your Maconomy Analyzer data in Power BI? Fill out the form below or reach out by phone or email. We’ll help you explore your options and tailor the perfect solution for your team.
